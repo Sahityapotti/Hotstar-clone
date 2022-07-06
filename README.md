@@ -6,3 +6,7 @@
 
 ## Platform Used
 * Codesandbox
+
+## Features
+* cloned the landing page of Disney+ hotstar 
+* Slider with infinity effects 
