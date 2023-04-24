@@ -1,12 +1,18 @@
-# Hotstar-clone
-## Technologies Used
+# Disney-Hotstar-clone
+
+# Link for the website:
+https://6bmsgn.csb.app/
+
+## Tech Stacks Used :
 * HTML
 * CSS
-* JS
+* JavaScript
 
-## Platform Used
+## Platform Used:
 * Codesandbox
 
-## Features
-* cloned the landing page of Disney+ hotstar 
-* Slider with infinity effects 
+## Features Used:
+* carousel slider created by using JavaScript.
+* card with background video.
+* whenever we hover on card it display movie name and its description.
+* previous and next buttons slidind effect created by using JavaScript.
